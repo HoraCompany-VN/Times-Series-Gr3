@@ -16,14 +16,14 @@ Daily Minimum Temperatures in Melbourne.
 - Outlier Detection
 
 ## Project Structure
-- data/ - Original dataset
-- notebooks/ - Jupyter Notebook
-- reports/ - Project report
-- outputs/ - Generated figures
+- data/raw - Original dataset
+- data/processed - Data is processed
+- Task/ - Desribe lab, which include: Lab1_descript.md, process.md, report.docx
+- src/ - Stored code - Lab1_code.ipynb, proc_data.py
 
 ## Installation
 pip install -r requirements.txt
 
-## Usage
-Open notebooks/Chapter2.ipynb
+## Instructions for use
+Open src/Lab1_code.ipynb
 and run all cells.
