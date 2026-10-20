@@ -8,6 +8,7 @@ This csv file is having 2 columns
 2 is the column variable of the index column: Temp (Temperature)
 
 ## Files
+'''text
 Lab1/
 ├── .vscode/
 ├── data/
@@ -27,7 +28,7 @@ Lab1/
 ├── Temporary/
 ├── README.md
 └── requirement.txt
-
+'''
 ## Jobs
 Bài tập 1: Tính và phân tích ACF/PACF - Minh Hòa
 Bài tập 2: Kiểm tra White Noise - Hoàng Phúc

@@ -17,8 +17,8 @@ Daily Minimum Temperatures in Melbourne.
 
 ## Project Structure
 - data/raw - Original dataset
-- data/processed - Data is processed
-- Task/ - Desribe lab, which include: Lab1_descript.md, process.md, report.docx
+- data/processed - Clean dataset
+- Task/ - Desribe lab, include: Lab1_descript.md, process.md, report.docx
 - src/ - Stored code - Lab1_code.ipynb, proc_data.py
 
 ## Installation
